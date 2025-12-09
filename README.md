@@ -1,2 +1,5 @@
 # HTML-AND-CSS-PROJECTS
-HTML and CSS Projects with The Tech Academy
+
+### Introduction
+
+This repository is for housing HTML and CSS Projects made for the Tech Academy.
